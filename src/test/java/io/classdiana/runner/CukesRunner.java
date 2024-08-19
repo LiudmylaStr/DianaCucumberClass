@@ -1,4 +1,4 @@
-package io.loop.runner;
+package io.classdiana.runner;
 
 
 import io.cucumber.junit.Cucumber;

@@ -1,4 +1,4 @@
-package io.loop.utilities;
+package io.classdiana.utilities;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;

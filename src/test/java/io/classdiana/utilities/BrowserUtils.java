@@ -1,4 +1,4 @@
-package io.loop.utilities;
+package io.classdiana.utilities;
 
 import io.cucumber.java.Scenario;
 import org.openqa.selenium.*;

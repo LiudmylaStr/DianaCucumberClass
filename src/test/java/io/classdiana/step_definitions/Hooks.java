@@ -1,11 +1,12 @@
-package io.loop.step_definitions;
+package io.classdiana.step_definitions;
 
+import io.classdiana.utilities.BrowserUtils;
+import io.classdiana.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
-import io.loop.utilities.BrowserUtils;
-import io.loop.utilities.Driver;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;

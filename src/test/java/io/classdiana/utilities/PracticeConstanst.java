@@ -1,4 +1,4 @@
-package io.loop.utilities;
+package io.classdiana.utilities;
 
 public class PracticeConstanst {
     public static final String EXPECTED_DEMOQA_CLICKBUTTOM = "You selected Ok";

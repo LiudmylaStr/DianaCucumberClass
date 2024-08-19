@@ -1,4 +1,4 @@
-package io.loop.utilities;
+package io.classdiana.utilities;
 
 public class DocuportConstants {
 
