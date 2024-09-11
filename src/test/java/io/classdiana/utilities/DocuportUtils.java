@@ -42,10 +42,10 @@ public class DocuportUtils {
 
         loginButton.click();
         if(role.toLowerCase().equals("client")){
-            Thread.sleep(3000);
+            Thread.sleep(10000);
             WebElement cont = driver.findElement(By.xpath("//button[@type='submit']"));
             cont.click();
-            Thread.sleep(3000);
+            Thread.sleep(10000);
         }
     }
     public static void logOut(WebDriver driver){
